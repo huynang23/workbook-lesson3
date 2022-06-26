@@ -1,0 +1,30 @@
+html{
+    margin:0;
+    padding: 0;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+   
+}
+.main{ 
+    background-color: #DFEEF0;
+    margin: 0 400px;
+}
+
+.color-text{
+    color: #7A9B9D;
+}
+hr{
+    
+   
+    border-top: 5px dashed #4C6566; 
+    width: 50%; 
+    text-align:left; 
+    margin-left: 0
+
+}
+.ti-star{
+    color: yellow ;
+    
+  
+}
